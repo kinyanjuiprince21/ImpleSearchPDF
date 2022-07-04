@@ -1,0 +1,7 @@
+.text-field {
+-fx-background-image: url("/com/resource/search.png");
+-fx-background-size: 16;
+-fx-background-repeat: no-repeat;
+-fx-background-position:5  center;
+-fx-padding: 10 25;
+}
